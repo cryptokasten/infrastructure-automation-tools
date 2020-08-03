@@ -1,0 +1,28 @@
+#+TITLE: Инструменты для автоматизации инфраструктуры
+
+В список включены инструменты для автоматизации инфраструктуры на базе
+OS Linux.
+
+** Инструменты для настройки виртуальных машин
+
+- [[../ansible-overview/][Ansible]]
+
+- [[../chef-overview/][Chef]]
+
+- [[../puppet-overview/][Puppet]]
+
+** Инструменты для управления инфраструктурой
+
+- [[../packer-overview/][Packer]]
+
+- [[../terraform-overview/][Terraform]]
+
+** Инсрументы для автоматизированного деплоя
+
+- [[../gitlab-ci-overview/][Gitlab CI]]
+
+- [[../jenkins-overview/][Jenkins]]
+
+** Источники
+
+- https://docs.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation
